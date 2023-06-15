@@ -1,0 +1,18 @@
+Package: cubatr
+Version: 0.0.1
+Date: 2023-06-12
+Title: A R Package for codon usage bias (CUB) analyze.
+Author: gxelab(Hebin Zhang)
+Maintainer: Hebin Zhang <zhanghb2020@lzu.edu.cn>
+Depends:
+    R (>= 4.3.0),
+    Biostrings
+Imports:
+    dplyr,
+    tidyverse
+Description: Codon Usage Bias Analysis Toolkit (CUBAT) is a powerful package for codon usage bias (CUB) analysis.Cubatr is its R version.
+License: MIT
+URL: https://github.com/gxelab/cubat
+BugReports: https://github.com/gxelab/cubat/issues
+VignetteBuilder: knitr
+RoxygenNote: 7.2.3
