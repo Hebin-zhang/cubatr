@@ -1,4 +1,4 @@
-# CUBAT <img src='docs/mstile-150x150.png' align="right" height="139" />
+# cubatr <img src='docs/mstile-150x150.png' align="right" height="139" />
 
 Codon Usage Bias Analysis Toolkit (CUBAT) is a powerful package for codon usage bias (CUB) analysis.
 And cubatr is its R version.
