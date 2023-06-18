@@ -11,7 +11,7 @@ calculateCAI(sequences, highExpressedGene, codonTable = "standard")
 
 \item{highExpressedGene}{highExpressedGene DNAStringSet of \code{highExpressedGene}}
 
-\item{codonTable}{select codon table \code{codonTable}}
+\item{codonTable}{select codon table}
 }
 \value{
 cai

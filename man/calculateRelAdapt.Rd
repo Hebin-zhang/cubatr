@@ -9,7 +9,7 @@ calculateRelAdapt(highExpressedGene, codonTable = "standard")
 \arguments{
 \item{highExpressedGene}{highExpressedGene DNAStringSet of \code{highExpressedGene}}
 
-\item{codonTable}{select codon table \code{codonTable}}
+\item{codonTable}{select codon table}
 }
 \value{
 relAdapt

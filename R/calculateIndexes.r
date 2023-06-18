@@ -2,7 +2,7 @@
 #'
 #' calculate sequences RSCU.
 #' @param sequences DNAStringSet of \code{sequences}
-#' @param codonTable select codon table \code{codonTable}
+#' @param codonTable select codon table
 #' @return rscuSheet
 #' @author Hebin Zhang
 #' @export
@@ -37,7 +37,7 @@ calculateRSCU <- function(sequences, codonTable = "standard") {
 #'
 #' calculate relative adaptability.
 #' @param highExpressedGene highExpressedGene DNAStringSet of \code{highExpressedGene}
-#' @param codonTable select codon table \code{codonTable}
+#' @param codonTable select codon table
 #' @return relAdapt
 #' @author Hebin Zhang
 #' @export
@@ -72,7 +72,7 @@ calculateRelAdapt <-
 #' calculate cai(codon adaptation index).
 #' @param sequences DNAStringSet of \code{sequences}
 #' @param highExpressedGene highExpressedGene DNAStringSet of \code{highExpressedGene}
-#' @param codonTable select codon table \code{codonTable}
+#' @param codonTable select codon table
 #' @return cai
 #' @author Hebin Zhang
 #' @export
@@ -116,8 +116,8 @@ calculateCAI <-
 #' findOptimalCodonsBinomial
 #'
 #' Finding Optimal codons using binomial regression.
-#' @param highFile Enter the fasta file of the highly expressed gene \code{highFile}
-#' @param lowFile Enter the fasta file of the lowly expressed gene \code{lowFile}
+#' @param highFile Enter the fasta file of the highly expressed gene
+#' @param lowFile Enter the fasta file of the lowly expressed gene
 #' @return binomialResults
 #' @author Hebin Zhang
 #' @export
@@ -176,8 +176,8 @@ findOptimalCodonsBinomial <- function(highFile, lowFile) {
 #' calculateFOP
 #'
 #' calculate FOP(frequency of optimal codons)
-#' @param codonFreq  codon frequency \code{codonFreq}
-#' @param optimalCodons Enter optimal Codons \code{lowFile}
+#' @param codonFreq  codon frequency
+#' @param optimalCodons Enter optimal Codons
 #' @return fop
 #' @author Hebin Zhang
 #' @export

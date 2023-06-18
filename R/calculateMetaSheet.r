@@ -25,7 +25,7 @@ calculateCodonFreq <- function(sequences) {
 #'
 #' Create aaFreq to store codon frequency.
 #' @param sequences DNAStringSet of \code{sequences}
-#' @param codonTable select codon table \code{codonTable}
+#' @param codonTable select codon table
 #' @return aaFreq
 #' @author Hebin Zhang
 #' @export

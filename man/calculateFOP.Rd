@@ -7,9 +7,9 @@
 calculateFOP(codonFreq, optimalCodons)
 }
 \arguments{
-\item{codonFreq}{codon frequency \code{codonFreq}}
+\item{codonFreq}{codon frequency}
 
-\item{optimalCodons}{Enter optimal Codons \code{lowFile}}
+\item{optimalCodons}{Enter optimal Codons}
 }
 \value{
 fop

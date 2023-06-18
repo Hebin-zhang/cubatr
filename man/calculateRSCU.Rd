@@ -9,7 +9,7 @@ calculateRSCU(sequences, codonTable = "standard")
 \arguments{
 \item{sequences}{DNAStringSet of \code{sequences}}
 
-\item{codonTable}{select codon table \code{codonTable}}
+\item{codonTable}{select codon table}
 }
 \value{
 rscuSheet

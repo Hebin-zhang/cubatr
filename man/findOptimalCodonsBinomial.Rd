@@ -7,9 +7,9 @@
 findOptimalCodonsBinomial(highFile, lowFile)
 }
 \arguments{
-\item{highFile}{Enter the fasta file of the highly expressed gene \code{highFile}}
+\item{highFile}{Enter the fasta file of the highly expressed gene}
 
-\item{lowFile}{Enter the fasta file of the lowly expressed gene \code{lowFile}}
+\item{lowFile}{Enter the fasta file of the lowly expressed gene}
 }
 \value{
 binomialResults
