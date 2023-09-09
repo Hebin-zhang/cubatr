@@ -1,4 +1,4 @@
-<p style="color:orange;font-size:16px;"">Attention: This Project Is No Longer Maintained</p>
+<span style="color:orange; font-size:16px;">Attention: This Project Is No Longer Maintained</span>
 
 I am pleased to announce that my professor has developed a more comprehensive and powerful R package [cubar](https://github.com/mt1022/cubar), which covers the same functionality as this project. Therefore, I have decided to discontinue updates and maintenance for this project.
 
