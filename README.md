@@ -1,8 +1,8 @@
-## <p style="color:orange;">Attention: This Project Is No Longer Maintained</p>
+<p style="color:orange;font-size:16px;"">Attention: This Project Is No Longer Maintained</p>
 
-I am pleased to announce that my professor has developed a more comprehensive and powerful R package, which covers the same functionality as this project. Therefore, I have decided to discontinue updates and maintenance for this project.
+I am pleased to announce that my professor has developed a more comprehensive and powerful R package [cubar](https://github.com/mt1022/cubar), which covers the same functionality as this project. Therefore, I have decided to discontinue updates and maintenance for this project.
 
-I strongly encourage you to switch to using my professor's R package for improved functionality and support. You can find their package at the following link: [cubar](https://github.com/mt1022/cubar)
+I strongly encourage you to switch to using my professor's R package for improved functionality and support. You can find their package at the following link: https://github.com/mt1022/cubar
 
 Thank you for your past support and usage of this project! If you have any questions or need further assistance, you can still contact me, and I will do my best to provide support.
 
